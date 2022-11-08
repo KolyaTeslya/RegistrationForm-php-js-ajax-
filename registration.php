@@ -1,6 +1,6 @@
 <?php
 require 'existUsers.php';
-require 'Logger.php';
+require 'logger.php';
 
 $message = '';
 $_POST['success'] = false;
